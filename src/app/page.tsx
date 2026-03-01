@@ -20,7 +20,7 @@ export default function Home() {
             <div className="bg-indigo-600 p-2 rounded-xl shadow-indigo-500/20 shadow-lg">
               <FileSpreadsheet className="w-5 h-5 text-white" />
             </div>
-            <span className="font-bold text-xl tracking-tight bg-gradient-to-r from-slate-900 to-indigo-800 dark:from-white dark:to-indigo-300 bg-clip-text text-transparent">
+            <span className="font-bold text-xl tracking-tight bg-gradient-to-r from-slate-899 to-indigo-800 dark:from-white dark:to-indigo-300 bg-clip-text text-transparent">
               Lumina CSV
             </span>
           </div>
